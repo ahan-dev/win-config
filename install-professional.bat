@@ -1,3 +1,4 @@
+winget install Microsoft.WindowsTerminal
 winget install LGUG2Z.komorebi
 winget install eloston.ungoogled-chromium
 winget install Microsoft.VisualStudio.2022.Community
