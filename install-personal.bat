@@ -9,7 +9,7 @@ winget install voidtools.Everything
 winget install WinDirStat.WinDirStat
 winget install Git.Git
 winget install Microsoft.PowerToys
-winget install Cygwin.Cygwin
+winget install MSYS2.MSYS2
 :: Apple Music
 winget install 9PFHDD62MXS1
 winget install OBSProject.OBSStudio
